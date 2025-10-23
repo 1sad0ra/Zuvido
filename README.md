@@ -35,3 +35,6 @@ Permitir que pessoas com baixa visão acessem cardápios de estabelecimentos com
 
 ### Orientação / Supervisão: 
 * Anderson dos Reis Barros
+
+## 🧾 Licença
+_Nenhuma ainda_
